@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AH Sidebar Box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-03 17:35+0000\n"
+"PO-Revision-Date: 2017-02-03 17:40+0000\n"
+"Last-Translator: andreashecht <office@andreas-hecht.com>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+
+#: ah-sidebar-box.php:92
+msgid ""
+"Adds a Sidebar Box with recent posts, last comments, categories, popular "
+"posts, a tag cloud and the archives to the sidebar. No Options."
+msgstr ""
+"Das Widget fügt eine Box mit den neuesten Beiträgen, den letzten Kommentaren,"
+" den Kategorien, den beliebtesten Beiträgen, den Tags sowie den Archiven zu "
+"Deiner Sidebar hinzu."
+
+#: ah-sidebar-box.php:137 ah-sidebar-box.php:147
+msgid " Famous Posts"
+msgstr "Beliebte Beiträge"
+
+#: ah-sidebar-box.php:138 ah-sidebar-box.php:177
+msgid " Last Comments"
+msgstr "Letzte Kommentare"
+
+#: ah-sidebar-box.php:139 ah-sidebar-box.php:185
+msgid " Recent Posts"
+msgstr "Neue Beiträge"
+
+#: ah-sidebar-box.php:140 ah-sidebar-box.php:208
+msgid " Categories"
+msgstr "Kategorien"
+
+#: ah-sidebar-box.php:141 ah-sidebar-box.php:216
+msgid " Tag Cloud"
+msgstr "Die Tags"
+
+#: ah-sidebar-box.php:142
+msgid " Archives"
+msgstr "Das Archiv"
+
+#: ah-sidebar-box.php:226
+msgid " Monthly Archives"
+msgstr "Archiv nach Monat"
+
+#: ah-sidebar-box.php:271
+msgid "Title:"
+msgstr "Titel"
+
+#: includes/recent-comments.php:24
+msgid "No comments yet"
+msgstr "Keine Kommentare"
+
+#: includes/recent-comments.php:32
+msgid "Anonymous"
+msgstr "Anonym"
+
+#. Name of the plugin
+msgid "AH Sidebar Box"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Creates a new and simple to use widget that adds a sidebar box with recent "
+"posts, last comments, categories, popular posts, a tag cloud and the "
+"archives to the sidebar."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://andreas-hecht.com/ah-sidebar-box/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Andreas Hecht"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://andreas-hecht.com"
+msgstr ""
