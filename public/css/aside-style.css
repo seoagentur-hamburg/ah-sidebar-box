@@ -1,0 +1,40 @@
+/*  Sidebar Box CSS */
+#sidebarbox #tabMenu {margin:0 !important;padding:0!important;list-style:none; display: inline-block; }
+#sidebarbox #tabMenu li { float: left; cursor: pointer;  margin-right: 6px; padding: 0 !important}
+#sidebarbox .tabmenu_header { border-bottom: none; color: #222; margin: 0 0 0 5px; padding: 12px 0 7px 0; font-size: 105%; font-weight: 600;}
+#sidebarbox li a cite {color:#000;text-decoration:none; font-size: 12px; text-transform: uppercase; }
+#sidebarbox li p {color:#444; font-size: 90%; line-height: 1.3em; margin: 5px 0;}
+#sidebarbox li.commentz { height:35px;width:35px;border: 1px solid transparent; font-size: 20px; text-align: center}
+#sidebarbox li.posts {height:35px;width:35px;border: 1px solid transparent; font-size: 20px; text-align: center}
+#sidebarbox li.category {height:35px;width:35px;border: 1px solid transparent; font-size: 20px; text-align: center}
+#sidebarbox li.famous { height:35px;width:35px;border: 1px solid transparent;font-size: 20px; text-align: center}
+#sidebarbox li.random { height:35px;width:35px;border: 1px solid transparent; font-size: 20px; text-align: center}
+#sidebarbox li.archiveslist { height:35px;width:35px;border: 1px solid transparent; margin-right: 0; font-size: 20px; text-align: center}
+#sidebarbox li.mouseover {color: #007acc}
+#sidebarbox li.mouseout {background-color: transparent;}
+#sidebarbox li.selected { color: #007acc}
+#sidebarbox { margin: 10px 0 0 0; padding: 10px 0 0 0; }
+#sidebarbox p { margin-bottom: 0; line-height: 1.3em !important; color: #666; font-size: 13px;}
+#sidebarbox  .boxTop {background: transparent;height:11px;clear:both}
+#sidebarbox  .boxBody {background-color:transparent;  border: 1px solid #d9d9d9; padding: 0px 10px;}
+#sidebarbox .boxBottom {background: transparent;height:4px;}
+#sidebarbox  .boxBody div {display:none;}
+#sidebarbox  .boxBody div.show {display:block;}
+#sidebarbox  .boxBody #category a { color: #555; text-decoration: none}
+#sidebarbox .boxBody div ul {margin:0;padding:0;}
+#sidebarbox  .boxBody div li {border-bottom:1px solid #ddd; border-top: 1px solid #fff; padding:6px 4px; cursor:pointer; color: #555; margin-bottom: 0; list-style: none;}
+#sidebarbox  .boxBody div ul li:last-child { margin-bottom: 10px; border-bottom: none}
+#sidebarbox  .boxBody div li span.date {font-size:12px;font-style:italic; color:#900 !important; display: inline; padding-bottom: 6px; margin-left: 5px}
+#sidebarbox  .boxBody div li p.which-post a {font-size:14px;font-style:italic; color:#900 !important;}
+#sidebarbox  span.which-post {display: block !important; position: relative; top: -5px;}
+#sidebarbox #sidebar-tagcloud {margin:0 10px 0 5px; display: inline-block;padding-top: 8px;}
+#sidebarbox #sidebar-tagcloud a, #sidebarbox #sidebar-tagcloud a:visited { -moz-border-radius: 3px;-webkit-border-radius: 3px; background-color: #333; border-radius: 3px; color: #fff; display: inline-block; margin: 0 2px 3px 0; padding: 2px 8px; text-decoration: none; font-size: 12px !important; font-weight: 400;}
+#sidebarbox #sidebar-tagcloud a:hover, #sidebarbox #sidebar-tagcloud a:focus { background-color: #f96e5b; color: #fff;}
+#sidebarbox #popular-comments li { list-style:none; overflow:auto; margin:0; border-bottom:1px solid #ddd; list-style: none;}
+#sidebarbox #popular-comments li:last-child {border-bottom: none;}
+#sidebarbox #popular-comments li img { float:left; margin-right:8px; border:1px solid #ccc; padding: 3px; margin-top: 2px; margin-bottom: 10px; width: 50px; height: 50px;}
+#sidebarbox ul.wet_recent_comments li img {float:left; border:1px solid #ccc; padding: 3px; margin: 2px 8px 20px 0;}
+#sidebarbox ul.recent_articles img {  float:left; margin-right:8px; border:1px solid #ccc; padding: 3px; margin-top: 2px; height: 50px; width: 50px;}
+#sidebarbox  .boxBody div li span.title-link { font-size: 100% !important; font-style: normal !important; }
+#sidebarbox .recent_articles li p { font-size: 12px; font-style: italic;}
+#sidebarbox  .boxBody .recent_articles li a { color: #222}
