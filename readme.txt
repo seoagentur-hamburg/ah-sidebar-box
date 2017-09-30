@@ -3,8 +3,8 @@ Contributors: AHecht
 Donate link: https://andreas-hecht.com/ah-sidebar-box/
 Tags: sidebar, comments, tag-cloud, recent-posts, posts, category, categories, archive, archives, widget, famous, famous-posts, sidebar box, tabs, tabbed widget
 Requires at least: 4.7.0
-Tested up to: 4.7.2
-Stable tag: 1.1.0
+Tested up to: 4.8.2
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,7 +20,7 @@ To use the widget, go to Appearance -> Widgets and add "AH Sidebar Box" widget.
 
 1. Upload contents of the directory to /wp-content/plugins/ (or use the automatic installer)
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. In Appearance->Widgets, add Evolution Sidebar Box widget to any sidebar.
+1. In Appearance->Widgets, add »AH Sidebar Box« widget to any sidebar.
 
 
 == Frequently Asked Questions ==
@@ -44,8 +44,14 @@ None at this point.
 
 == Changelog ==
 
+= 1.1.2 =
+* WP 4.8.2 - stable version
+
+= 1.1.1 =
+* WP 4.8 - stable version
+
 = 1.1.0 =
-* completely rewritten - stable version
+* completely rewritten
 * No timthumb.php
 
 = 1.0.7 =

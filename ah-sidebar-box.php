@@ -2,8 +2,8 @@
 /*
 Plugin Name: AH Sidebar Box
 Plugin URI: https://andreas-hecht.com/ah-sidebar-box/
-Description: Creates a new and simple to use widget that adds a sidebar box with recent posts, last comments, categories, popular posts, a tag cloud and the archives to the sidebar.
-Version: 1.1.0
+Description: Creates a new and simple to use tabbed widget that adds a sidebar box with recent posts, last comments, categories, popular posts, a tag cloud and the archives to the sidebar.
+Version: 1.1.2
 Author:      Andreas Hecht
 Author URI:  https://andreas-hecht.com
 License:     GPL2 or later
